@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/leonarderiyo73/COMP3104/issues"
   },
-  "homepage": "https://github.com/leonarderiyo73/COMP3104#readme"
+  "homepage": "https://github.com/leonarderiyo73/COMP3104#readme",
+  "keywords": []
 }
